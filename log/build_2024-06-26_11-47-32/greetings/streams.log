@@ -1,0 +1,38 @@
+[1.192s] Invoking command in '/home/nigel/Projects/creating-a-package/src/greetings': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nigel/Projects/creating-a-package/build/greetings/prefix_override:/home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/greetings build --build-base /home/nigel/Projects/creating-a-package/build/greetings/build install --record /home/nigel/Projects/creating-a-package/build/greetings/install.log --single-version-externally-managed install_data
+[1.560s] running egg_info
+[1.560s] creating ../../build/greetings/greetings.egg-info
+[1.589s] writing ../../build/greetings/greetings.egg-info/PKG-INFO
+[1.590s] writing dependency_links to ../../build/greetings/greetings.egg-info/dependency_links.txt
+[1.590s] writing entry points to ../../build/greetings/greetings.egg-info/entry_points.txt
+[1.590s] writing requirements to ../../build/greetings/greetings.egg-info/requires.txt
+[1.590s] writing top-level names to ../../build/greetings/greetings.egg-info/top_level.txt
+[1.590s] writing manifest file '../../build/greetings/greetings.egg-info/SOURCES.txt'
+[1.652s] reading manifest file '../../build/greetings/greetings.egg-info/SOURCES.txt'
+[1.652s] adding license file 'LICENSE'
+[1.652s] writing manifest file '../../build/greetings/greetings.egg-info/SOURCES.txt'
+[1.652s] running build
+[1.653s] running build_py
+[1.653s] creating /home/nigel/Projects/creating-a-package/build/greetings/build
+[1.653s] creating /home/nigel/Projects/creating-a-package/build/greetings/build/lib
+[1.653s] creating /home/nigel/Projects/creating-a-package/build/greetings/build/lib/greetings
+[1.653s] copying greetings/__init__.py -> /home/nigel/Projects/creating-a-package/build/greetings/build/lib/greetings
+[1.653s] copying greetings/hiya.py -> /home/nigel/Projects/creating-a-package/build/greetings/build/lib/greetings
+[1.653s] running install
+[1.660s] running install_lib
+[1.689s] creating /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings
+[1.690s] copying /home/nigel/Projects/creating-a-package/build/greetings/build/lib/greetings/__init__.py -> /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings
+[1.690s] copying /home/nigel/Projects/creating-a-package/build/greetings/build/lib/greetings/hiya.py -> /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings
+[1.690s] byte-compiling /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings/__init__.py to __init__.cpython-312.pyc
+[1.690s] byte-compiling /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings/hiya.py to hiya.cpython-312.pyc
+[1.690s] running install_data
+[1.691s] creating /home/nigel/Projects/creating-a-package/install/greetings/share/ament_index
+[1.691s] creating /home/nigel/Projects/creating-a-package/install/greetings/share/ament_index/resource_index
+[1.691s] creating /home/nigel/Projects/creating-a-package/install/greetings/share/ament_index/resource_index/packages
+[1.691s] copying resource/greetings -> /home/nigel/Projects/creating-a-package/install/greetings/share/ament_index/resource_index/packages
+[1.691s] copying package.xml -> /home/nigel/Projects/creating-a-package/install/greetings/share/greetings
+[1.691s] running install_egg_info
+[1.724s] Copying ../../build/greetings/greetings.egg-info to /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings-0.0.0-py3.12.egg-info
+[1.725s] running install_scripts
+[1.914s] Installing hiya script to /home/nigel/Projects/creating-a-package/install/greetings/lib/greetings
+[1.915s] writing list of installed files to '/home/nigel/Projects/creating-a-package/build/greetings/install.log'
+[1.946s] Invoked command in '/home/nigel/Projects/creating-a-package/src/greetings' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nigel/Projects/creating-a-package/build/greetings/prefix_override:/home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/greetings build --build-base /home/nigel/Projects/creating-a-package/build/greetings/build install --record /home/nigel/Projects/creating-a-package/build/greetings/install.log --single-version-externally-managed install_data

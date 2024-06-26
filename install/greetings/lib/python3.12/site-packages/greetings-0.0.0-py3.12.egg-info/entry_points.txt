@@ -1,0 +1,2 @@
+[console_scripts]
+hiya = greetings.hiya:main

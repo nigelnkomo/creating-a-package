@@ -1,0 +1,17 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../build/greetings/greetings.egg-info/PKG-INFO
+../../build/greetings/greetings.egg-info/SOURCES.txt
+../../build/greetings/greetings.egg-info/dependency_links.txt
+../../build/greetings/greetings.egg-info/entry_points.txt
+../../build/greetings/greetings.egg-info/requires.txt
+../../build/greetings/greetings.egg-info/top_level.txt
+../../build/greetings/greetings.egg-info/zip-safe
+greetings/__init__.py
+greetings/hiya.py
+resource/greetings
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/greetings/greetings.egg-info
+writing ../../build/greetings/greetings.egg-info/PKG-INFO
+writing dependency_links to ../../build/greetings/greetings.egg-info/dependency_links.txt
+writing entry points to ../../build/greetings/greetings.egg-info/entry_points.txt
+writing requirements to ../../build/greetings/greetings.egg-info/requires.txt
+writing top-level names to ../../build/greetings/greetings.egg-info/top_level.txt
+writing manifest file '../../build/greetings/greetings.egg-info/SOURCES.txt'
+reading manifest file '../../build/greetings/greetings.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/greetings/greetings.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nigel/Projects/creating-a-package/build/greetings/build
+creating /home/nigel/Projects/creating-a-package/build/greetings/build/lib
+creating /home/nigel/Projects/creating-a-package/build/greetings/build/lib/greetings
+copying greetings/__init__.py -> /home/nigel/Projects/creating-a-package/build/greetings/build/lib/greetings
+copying greetings/hiya.py -> /home/nigel/Projects/creating-a-package/build/greetings/build/lib/greetings
+running install
+running install_lib
+creating /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings
+copying /home/nigel/Projects/creating-a-package/build/greetings/build/lib/greetings/__init__.py -> /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings
+copying /home/nigel/Projects/creating-a-package/build/greetings/build/lib/greetings/hiya.py -> /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings
+byte-compiling /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings/hiya.py to hiya.cpython-312.pyc
+running install_data
+creating /home/nigel/Projects/creating-a-package/install/greetings/share/ament_index
+creating /home/nigel/Projects/creating-a-package/install/greetings/share/ament_index/resource_index
+creating /home/nigel/Projects/creating-a-package/install/greetings/share/ament_index/resource_index/packages
+copying resource/greetings -> /home/nigel/Projects/creating-a-package/install/greetings/share/ament_index/resource_index/packages
+copying package.xml -> /home/nigel/Projects/creating-a-package/install/greetings/share/greetings
+running install_egg_info
+Copying ../../build/greetings/greetings.egg-info to /home/nigel/Projects/creating-a-package/install/greetings/lib/python3.12/site-packages/greetings-0.0.0-py3.12.egg-info
+running install_scripts
+Installing hiya script to /home/nigel/Projects/creating-a-package/install/greetings/lib/greetings
+writing list of installed files to '/home/nigel/Projects/creating-a-package/build/greetings/install.log'
