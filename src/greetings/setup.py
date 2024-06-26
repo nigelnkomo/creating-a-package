@@ -15,7 +15,7 @@ setup(
     zip_safe=True,
     maintainer='nigel',
     maintainer_email='nigel.nkomo@icloud.com',
-    description='TODO: Package description',
+    description='Creating a package.',
     license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={
