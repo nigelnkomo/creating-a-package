@@ -3,7 +3,7 @@
 <package format="3">
   <name>greetings</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>Creating a package.</description>
   <maintainer email="nigel.nkomo@icloud.com">nigel</maintainer>
   <license>Apache-2.0</license>
 
